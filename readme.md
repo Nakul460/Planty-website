@@ -1,6 +1,20 @@
-# Planty'x
-
 Planty'x is a modern, responsive website showcasing a variety of house plants for homes and offices. It is designed with a clean layout, beautiful typography, and intuitive navigation to enhance the user experience.
+
+## Features
+
+- Responsive design for desktop and tablet screens
+- Beautiful hero section with images and call-to-action
+- Plant gallery with pricing and plant details
+- Customer reviews section
+- Newsletter subscription form
+- Footer with contact info and social media icons
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with Google Fonts & Online Web Fonts)
+- Bootstrap 5
+- Flexbox & CSS Grid for layout
 
 ## Sections in the Website
 
