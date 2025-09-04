@@ -31,36 +31,18 @@ Planty'x is a modern, responsive website showcasing a variety of house plants fo
 ---
 
 ### 4. Plant Gallery
-- Grid layout displaying multiple plant cards
-- Each card has:
-  - Plant image
-  - Plant name
-  - Price
-- "See All" button for full catalog
-
 ![Plant Gallery](screenshots/4.png)
 
 ---
 
 ### 5. Customer Reviews
-- Overview of ratings with stars
-- Individual customer testimonials
-- Navigation arrows for multiple reviews
-
 ![Reviews Section](screenshots/5.png)
 
 ---
 
 ### 6. Newsletter / Grid Images
-- Grid of lifestyle/plant images
-- Newsletter subscription box (email input + subscribe button)
-
 ![Newsletter Section](screenshots/6.png)
 
 ---
 
-### 7. Footer
-- Brand logo
-- Useful links: Help, Contact Us, Privacy & Terms
-- Social media icons
 
