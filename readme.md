@@ -9,12 +9,12 @@ Planty'x is a modern, responsive website showcasing a variety of house plants fo
 
 ---
 
-### 2. About / Info Section
+### 2. Steps Section
 ![Info Section](screenshots/2.png)
 
 ---
 
-### 3. Steps Section
+### 3. Plant gallery
 ![plant gallery](screenshots/3.png)
 
 ---
@@ -24,7 +24,7 @@ Planty'x is a modern, responsive website showcasing a variety of house plants fo
 
 ---
 
-### 5. Customer Reviews
+### 5. Grid section
 ![Grid section](screenshots/5.png)
 
 ---
